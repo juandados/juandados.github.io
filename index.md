@@ -1,10 +1,10 @@
-# Work Experience Summary
+## Work Experience Summary
 * Training, Evaluating, Testing & Deploying Data-Driven Models (Scikit-learn, Spark MLlib, TensorFlow)
 * Data Mining, Aggregating & Presenting using tools like Pandas, Spark, SQL, & Tableau
 * Developing pipelines to ETL data from both real-time and static data sources using PySpark
 * Developing dockerized web services using Django, Flask using the TDD paradigm
 
-# Work Experience Detail
+## Work Experience Detail
 **Aug 2018  to  Aug 2020 (Part-time) Research Assistant 	At Simon Fraser University - Burnaby, BC**
 * Propose a control framework for multivehicle coverage of domains by swarms of drones or plane-aircrafts.
 * Simulate the agent’s dynamics for different scenarios and document results.
@@ -28,7 +28,7 @@
 * Train linear and nonlinear regression models for the forecast of the Magdalena river levels
 * Establish imputation strategies for missing data.
  
-# Education
+## Education
 * Aug 2020    MSc. Applied Mathematics, Simon Fraser University (With Distinction) 	(GPA 4.18 / 4.33)
 * Mar 2016    MSc. Mathematics, Universidad Nacional De Colombia	(GPA 4.8 / 5.0)
 * Jun 2017    BEng. Electronics, Universidad Distrital FJDC 	(GPA 4.0 / 5.0)
