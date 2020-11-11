@@ -4,14 +4,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   A data scientist with a passion for real-world practice. I seek to work in an environment that will challenge me further while allowing me to contribute to the continued growth and success of organizations.
   <br><br>
 Work Experience Summary
-
 Training, Evaluating, Testing & Deploying Data-Driven Models (Scikit-learn, Spark MLlib, TensorFlow)
 Data Mining, Aggregating & Presenting using tools like Pandas, Spark, SQL, & Tableau
 Developing pipelines to ETL data from both real-time and static data sources using PySpark
 Developing dockerized web services using Django, Flask using the TDD paradigm
   <br><br> 
 Work Experience Detail
- 
 Aug 2018  to  Aug 2020 (Part-time) Research Assistant 	At Simon Fraser University - Burnaby, BC
 Propose a control framework for multivehicle coverage of domains by swarms of drones or plane-aircrafts.
 Simulate the agent’s dynamics for different scenarios and document results.
@@ -34,7 +32,6 @@ Develop a neutron data collection spectroscopy device based on a fast pulse coun
 Oct 2015 to Jan 2016 Research Assistant 	At CIRMAG - Bogotá, COL
 Train linear and nonlinear regression models for the forecast of the Magdalena river levels
 Establish imputation strategies for missing data.
- 
   <br><br>
 Education
 Aug 2020    MSc. Applied Mathematics, Simon Fraser University (With Distinction) 	(GPA 4.18 / 4.33)
