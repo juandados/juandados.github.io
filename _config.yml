@@ -3,12 +3,6 @@ logo: "/images/juanChacon.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A data scientist with a passion for real-world practice. I seek to work in an environment that will challenge me further while allowing me to contribute to the continued growth and success of organizations.
   <br><br>
-  Work Experience Summary <br>
-  Training, Evaluating, Testing & Deploying Data-Driven Models (Scikit-learn, Spark MLlib, TensorFlow)
-  Data Mining, Aggregating & Presenting using tools like Pandas, Spark, SQL, & Tableau
-  Developing pipelines to ETL data from both real-time and static data sources using PySpark
-  Developing dockerized web services using Django, Flask using the TDD paradigm
-  <br><br>
   <a href="https://www.linkedin.com/in/juan-d-chacon-a7a914a2/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
