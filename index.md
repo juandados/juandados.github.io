@@ -33,7 +33,8 @@ A simple methodology for gait prediction based on computer vision that can be us
 
 ---
 
-### Multiagent Coverage
+### Other Projects
+---
 [Safe Coverage of Compact Domains For Second Order Dynamical Systems](https://github.com/juandados/self-propelling)
 
 A distributed algorithm for safe domain coverage for second order vehicles using artificial potentials and Hamilton-Jacobi rechability theory.
@@ -42,15 +43,11 @@ A distributed algorithm for safe domain coverage for second order vehicles using
 <img src="images/moving-triangle.gif?raw=true"/>
 </div>
 ---
-
-### Micro Controllers
 [A Wearable for Gait Estimation](https://github.com/juandados/gait-wearable)
+
+An implementation of a wearable sensor for gait estimation using the MPU 6050 (Accelerometer, Gyroscope, 6 Axis Sensor) on top of an ESP32 (for reading and bluetooth comunication). The data loging and postprocessing is done using python.
+
 <img src="images/gait-wearable.png?raw=true"/>
-
 ---
-
-### Other Projects
-
 - [This Web Site!](https://github.com/juandados/juandados.github.io)
-
 ---
