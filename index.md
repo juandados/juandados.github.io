@@ -1,4 +1,5 @@
 ## Work Experience Summary
+---
 * Training, Evaluating, Testing & Deploying Data-Driven Models (Scikit-learn, Spark MLlib, TensorFlow)
 * Data Mining, Aggregating & Presenting using tools like Pandas, Spark, SQL, & Tableau
 * Developing pipelines to ETL data from both real-time and static data sources using PySpark
@@ -7,13 +8,13 @@
 [Work Experience Detail](/work_experience)
 
 ## Education
+---
 * Aug 2020    MSc. Applied Mathematics, Simon Fraser University (With Distinction) 	(GPA 4.18 / 4.33)
 * Mar 2016    MSc. Mathematics, Universidad Nacional De Colombia	(GPA 4.8 / 5.0)
 * Jun 2017    BEng. Electronics, Universidad Distrital FJDC 	(GPA 4.0 / 5.0)
 * Mar 2013    BSc. Mathematics, Universidad Nacional De Colombia 	(GPA 4.2 / 5.0)
 
 ## Portfolio
-
 ---
 
 ### Data Science 

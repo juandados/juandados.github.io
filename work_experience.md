@@ -1,3 +1,5 @@
+# Work Experience Detail
+
 **Aug 2018  to  Aug 2020 (Part-time) Research Assistant 	At Simon Fraser University - Burnaby, BC**
 * Propose a control framework for multivehicle coverage of domains by swarms of drones or plane-aircrafts.
 * Simulate the agent’s dynamics for different scenarios and document results.
