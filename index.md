@@ -19,7 +19,7 @@
 ### Data Science 
 [MeLi Challenge [Comming Soon!]](https://ml-challenge.mercadolibre.com/downloads)
 Building a Machine Learning Model to predict the next user purchase based on his historic navigation data. Our approach uses Spark for data ingestion, a text classifier and lots of common sense. 
-<img src="images/meli-challenge.png.jpg?raw=true"/>
+<img src="images/meli-challenge.png?raw=true"/>
 
 ---
 ### Deep Learning
@@ -31,7 +31,7 @@ A simple methodology for gait prediction based on computer vision that can be us
 
 ### Multiagent Coverage
 [Safe Coverage of Compact Domains For Second Order Dynamical Systems](https://github.com/juandados/self-propelling)
-<img src="images/pose_estimation_animation.gif?raw=true"/>
+<img src="images/moving-triangle.gif?raw=true"/>
 
 ---
 
