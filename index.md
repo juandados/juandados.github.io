@@ -37,7 +37,7 @@ A simple methodology for gait prediction based on computer vision that can be us
 [Safe Coverage of Compact Domains For Second Order Dynamical Systems](https://github.com/juandados/self-propelling)
 <div style="display: flex; justify-content: center;">
 <img src="images/moving-triangle.gif?raw=true"/>
-<div>
+</div>
 ---
 
 ### Micro Controllers
