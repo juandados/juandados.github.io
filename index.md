@@ -18,12 +18,14 @@
 ---
 ### Data Science 
 [MeLi Challenge [Comming Soon!]](https://ml-challenge.mercadolibre.com/downloads)
+
 Building a Machine Learning Model to predict the next user purchase based on his historic navigation data. Our approach uses Spark for data ingestion, a text classifier and lots of common sense. 
 <img src="images/meli-challenge.png?raw=true"/>
 
 ---
 ### Deep Learning
 [Gait Inference Using Pose Estimation](https://github.com/juandados/gait-inference)
+
 A simple methodology for gait prediction based on computer vision that can be used to assist the design process of lower limb active prosthesis. Our proposal uses YOLOv2 for person detection, a human pose estimator build from ResNet-50 and a long-short term memory recurrent network as prediction model.
 <img src="images/pose_estimation_animation.gif?raw=true"/>
 
@@ -37,6 +39,7 @@ A simple methodology for gait prediction based on computer vision that can be us
 
 ### Micro Controllers
 [A Wearable for Gait Estimation](https://github.com/juandados/gait-wearable)
+<img src="images/gait-wearable.png?raw=true"/>
 
 ---
 
