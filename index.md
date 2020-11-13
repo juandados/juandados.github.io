@@ -17,7 +17,7 @@
 ## Portfolio
 ---
 ### Data Science 
-[MeLi Challenge [Comming Soon!]](https://ml-challenge.mercadolibre.com/downloads)
+[MeLi Challenge [Comming Soon!]](https://ml-challenge.mercadolibre.com)
 
 Building a Machine Learning Model to predict the next user purchase based on his historic navigation data. Our approach uses Spark for data ingestion, a text classifier and lots of common sense. 
 <img src="images/meli-challenge.png?raw=true"/>
