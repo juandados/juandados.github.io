@@ -35,7 +35,7 @@ A simple methodology for gait prediction based on computer vision that can be us
 
 ### Other Projects
 ---
--[Safe Coverage of Compact Domains For Second Order Dynamical Systems](https://github.com/juandados/self-propelling)
+- [Safe Coverage of Compact Domains For Second Order Dynamical Systems](https://github.com/juandados/self-propelling)
 
 A MATLAB implementation of Safe multi-agent coverage for moving domains using artificial potentials for consensus and Hamilton Jacobi collision avoidance.
 
@@ -43,10 +43,10 @@ A MATLAB implementation of Safe multi-agent coverage for moving domains using ar
 <img src="images/moving-triangle.gif?raw=true"/>
 </div>
 
--[A Wearable for Gait Estimation](https://github.com/juandados/gait-wearable)
+- [A Wearable for Gait Estimation](https://github.com/juandados/gait-wearable)
 
 Implementation of a wearable sensor for gait estimation using the MPU 6050 (Accelerometer, Gyroscope, 6 Axis Sensor) on top of an ESP32 (for reading and bluetooth comunication). The data loging and postprocessing is done using python.
 
 <img src="images/gait-wearable.png?raw=true"/>
 
--[This Web Site!](https://github.com/juandados/juandados.github.io)
+- [This Web Site!](https://github.com/juandados/juandados.github.io)
