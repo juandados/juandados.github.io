@@ -23,9 +23,10 @@ Building a Machine Learning Model to predict the next user purchase based on his
 
 <img src="images/meli-challenge.png?raw=true"/>
 ---
+
 [Movie Recommendation System](https://github.com/juandados/movies_recommendation)
 
-A movie recommendation engine from written reviews using collaborative filtering based on low-rank matrix factorization implemented in Python. The raw data is available at http://www.cs.cornell.edu/people/pabo/movie-review-data/
+A movie recommendation engine from written reviews using collaborative filtering based on low-rank matrix factorization implemented in Python.
 
 <img src="images/movies.jpg?raw=true"/>
 ---
