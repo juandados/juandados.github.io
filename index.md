@@ -22,7 +22,12 @@
 Building a Machine Learning Model to predict the next user purchase based on his historic navigation data. Our approach uses Spark for data ingestion, a text classifier and lots of common sense. 
 
 <img src="images/meli-challenge.png?raw=true"/>
+---
+[Movie Recommendation System](https://github.com/juandados/movies_recommendation)
 
+A movie recommendation engine from written reviews using collaborative filtering based on low-rank matrix factorization implemented in Python. The raw data is available at http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+<img src="images/movies.jpg?raw=true"/>
 ---
 ### Deep Learning
 [Gait Inference Using Pose Estimation](https://github.com/juandados/gait-inference)
