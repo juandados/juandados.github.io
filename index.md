@@ -19,7 +19,7 @@
 ### Data Science 
 [Itau Challenge](https://github.com/juandados/itau-challenge)
 
-Building a predictive model that allows to predict the purchase of 5 banking products, to better guide future campaigns. [challenge description](https://binnario.ai/challenge/-MMDsMov6MVyOl3gDuOB)
+Building a predictive model that allows to predict the purchase of 5 banking products, to better guide future campaigns. [Challenge description](https://binnario.ai/challenge/-MMDsMov6MVyOl3gDuOB)
 
 <img src="images/banking.png?raw=true"/>
 ---
