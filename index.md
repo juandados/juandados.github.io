@@ -17,6 +17,12 @@
 ## Portfolio
 ---
 ### Data Science 
+[Itau Challenge](https://github.com/juandados/itau-challenge)
+
+Building a predictive model that allows to predict the purchase of 5 banking products, to better guide future campaigns. [challenge description](https://binnario.ai/challenge/-MMDsMov6MVyOl3gDuOB)
+
+<img src="images/banking.png?raw=true"/>
+---
 [MeLi Challenge [Comming Soon!]](https://ml-challenge.mercadolibre.com)
 
 Building a Machine Learning Model to predict the next user purchase based on his historic navigation data. Our approach uses Spark for data ingestion, a text classifier and lots of common sense. 
